@@ -5,4 +5,4 @@ rasterio
 matplotlib
 plotly
 scipy
-gdal
+gdal==3.4.3
