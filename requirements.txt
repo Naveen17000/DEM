@@ -1,0 +1,7 @@
+streamlit
+numpy
+pandas
+rasterio  # If you're using .tif files
+matplotlib
+requests
+opencv-python-headless  # If you're using OpenCV
